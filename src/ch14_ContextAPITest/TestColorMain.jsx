@@ -7,12 +7,16 @@ import TestSelectColors from "./TestSelectColors";
 
 const TestColorMain = () => {
   return (
-    //예시1
+    // 예시1
     // <div>
     //   <ColorContext.Provider value={{ color: "red" }}>
     //     <TestColorBox />
     //   </ColorContext.Provider>
     // </div>
+    //예시2
+    // const ColorProvider = ({ children }) => {
+    // const [color, setColor] = useState("blue");
+    // const [subcolor, setSubcolor] = useState("red");
     <ColorProvider>
       <TestSelectColors />
       <TestColorBox />
