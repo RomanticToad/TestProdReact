@@ -5,11 +5,11 @@ import TodoListItem from "./TodoListItem";
 import { List } from "react-virtualized";
 
 //전체 리스트부분만 css작업. TodoListCss
-const TodoListCss = styled.div`
-  min-height: 320px;
-  max-height: 513px;
-  overflow-y: auto;
-`;
+// const TodoListCss = styled.div`
+//   min-height: 320px;
+//   max-height: 513px;
+//   overflow-y: auto;
+// `;
 
 // TodoMain 에서 전달한 props 속성을 , 자식컴포넌트에서 가져오기
 // <TodoList todos={todos} />

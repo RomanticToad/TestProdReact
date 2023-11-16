@@ -1,7 +1,6 @@
 import React from "react";
 import {
   MdCheckBox,
-  MdCheckbox,
   MdCheckBoxOutlineBlank,
   MdRemoveCircleOutline,
 } from "react-icons/md";

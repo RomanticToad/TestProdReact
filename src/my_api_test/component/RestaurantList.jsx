@@ -17,13 +17,13 @@ const ResListCss = styled.div`
 `;
 
 // 더미 데이터
-const sampleItem = {
-  MAIN_TITLE: "제목",
-  ADDR1: "주소",
-  RPRSNTV_MENU: "메인 메뉴",
-  ITEMCNTNTS: "설명",
-  MAIN_IMG_THUMB: "https://via.placeholder.com/160",
-};
+// const sampleItem = {
+//   MAIN_TITLE: "제목",
+//   ADDR1: "주소",
+//   RPRSNTV_MENU: "메인 메뉴",
+//   ITEMCNTNTS: "설명",
+//   MAIN_IMG_THUMB: "https://via.placeholder.com/160",
+// };
 
 const RestaurantList = () => {
   // useEffect 이용해서, 마운트시, 최초 1회 데이터 받아오기.

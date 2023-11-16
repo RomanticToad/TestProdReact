@@ -1,5 +1,5 @@
 import React from "react";
-import styled, { css } from "styled-components";
+import styled from "styled-components";
 import { NavLink } from "react-router-dom";
 
 // 카테고리 목록, 보이는 건 한글, 값은 영어로 할당.

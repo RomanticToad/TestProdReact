@@ -1,6 +1,6 @@
 // 입력받는 기능을 분리한 파일을
 //불러와서 테스트 할 환경
-import React, { useState } from "react";
+import React from "react";
 //순서1 설정. 파일 분리한 기능을 불러오기
 import useInfoInputFunc from "./InfoInputFunc";
 import { useNavigate } from "react-router-dom";

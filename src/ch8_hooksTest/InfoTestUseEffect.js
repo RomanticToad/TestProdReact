@@ -1,7 +1,7 @@
 //훅스 useState 먼저 확인
 //복습 해보기
 //지금 부터는 모두 함수형 컴포넌트로 작업하기.
-import { Affix, Button } from "antd";
+import { Button } from "antd";
 import React, { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 

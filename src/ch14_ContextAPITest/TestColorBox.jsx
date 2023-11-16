@@ -3,7 +3,6 @@ import React, { useContext } from "react";
 // 전역 속성 가져오기
 import ColorContext from "./testColor";
 //예시2
-import { ColorConsumer } from "./testColor";
 
 //전역에서 설정한 속성 가져오기.
 // Consumer 라는 속성을 이용해서, 전역의 값을 사용하기.

@@ -45,9 +45,7 @@
 // export default App;
 
 //=========================================================================================================
-import logo from "./logo.svg";
 import "./App.css";
-import { Button, Space, DatePicker, version } from "antd";
 // 페이지 이동을 위한 설정1
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
@@ -58,7 +56,6 @@ import MyCount from "./component/MyCount";
 import RefPracticeScrollTest from "./ch_5component/RefPracticeScrollTest";
 import DataListKeyAddDelTest from "./ch6_component/DataListKeyAddDelTest";
 import LifeCycleTest from "./ch7_classLifeCycle/LifeCycleTest";
-import { useState } from "react";
 import InfoTestUseState from "./ch8_hooksTest/InfoTestUseState";
 import InfoTestUseEffect from "./ch8_hooksTest/InfoTestUseEffect";
 import CountUseReducerTest from "./ch8_hooksTest/CountUseReducerTest";

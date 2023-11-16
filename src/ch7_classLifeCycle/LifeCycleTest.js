@@ -1,7 +1,6 @@
 //rcc
 import React, { Component } from "react";
 import { Button } from "antd";
-import { useNavigate } from "react-router-dom";
 
 class LifeCycleTest extends Component {
   // 생명주기를 알아보기 위한 예제코드

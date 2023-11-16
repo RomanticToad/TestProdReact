@@ -5,12 +5,11 @@
 
 // 1)제목 ...2)입력란 : TodoInsert 3)리스트... 4)리스트의 아이템 등..
 
-import React, { useCallback, useReducer, useRef, useState } from "react";
+import React, { useCallback, useReducer, useRef } from "react";
 import styled from "styled-components";
 import { AiFillApple } from "react-icons/ai";
 import TodoBase from "./TodoBase";
 import TodoInsert from "./TodoInsert";
-import TodoListItem from "./TodoListItem";
 import TodoList from "./TodoList";
 
 const Main_css = styled.div`
