@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 // //회원가입 창 처럼 만들기.
 // import React from "react";
 // import { useState, useRef } from "react";

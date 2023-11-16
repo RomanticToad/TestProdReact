@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-pascal-case */
 // 부모 : App, 자식 : TodoMain
 // 자식 : TodoMain (베이스 컴포넌트)
 
