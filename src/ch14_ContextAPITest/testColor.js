@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 //준비물
 // createContext 임포트
 // 전역으로 사용할 예제 속성추가
